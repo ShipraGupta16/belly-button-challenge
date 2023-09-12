@@ -2,11 +2,11 @@
 
 We are assigned to build an interactive dashboardto explore the Belly Button Biodiversity dataset which is a catalog of microbes residing in human navels.
 
-We are required to build three visualization plots.
+We are required to build three visualization plots using tech stack JavaScript, HTML(DOM), Ajax, D3, Plotly.
 
 ### Bar Chart
 
-1) Created a horizontal barchart to show the top 10OTUs found in an individual.
+1) Created a horizontal barchart to show the top 10 OTUs found in an individual.
 2) Used sample_values as the values, otu_ids as the labels and otu_labels as the hovertext for the barchart.
 3) Updated the plot whenever a new sample is selected.
 
