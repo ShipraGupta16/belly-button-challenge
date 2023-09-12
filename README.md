@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-We are assigned to build an interactive dashboardto explore the Belly Button Biodiversity dataset which is a catalog of microbes residing in human navels.
+We are assigned to build an interactive dashboard to explore the Belly Button Biodiversity dataset which is a catalog of microbes residing in human navels.
 
 We are required to build three visualization plots using tech stack JavaScript, HTML(DOM), Ajax, D3, Plotly.
 
@@ -37,3 +37,5 @@ otu_ids for the x values, sample_values for the y values, sample_values for the 
 
 #### References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+
+© 2023 edX Boot Camps LLC
