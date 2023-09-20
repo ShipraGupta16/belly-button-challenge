@@ -1,5 +1,7 @@
 # belly-button-challenge
 
+The dashboard is deployed at: https://shipragupta16.github.io/belly-button-challenge/
+
 We are assigned to build an interactive dashboard to explore the Belly Button Biodiversity dataset which is a catalog of microbes residing in human navels.
 
 We are required to build three visualization plots using tech stack JavaScript, HTML(DOM), Ajax, D3, Plotly.
